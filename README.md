@@ -25,4 +25,4 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abilash-7&show_icons=true&locale=en" alt="abilash-7" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abilash-7&" alt="abilash-7" /></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abilash-7" alt="abilash-7" /></a> </p>
+
